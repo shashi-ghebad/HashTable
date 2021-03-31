@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindFrequency", "FindFrequency\FindFrequency.csproj", "{3CCA0600-F3B7-4086-BEC0-79560F848112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFrequencyLargePara", "FindFrequencyLargePara\FindFrequencyLargePara.csproj", "{AB926BB7-4440-4547-8C9C-A066266D8215}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindFrequencyLargePara", "FindFrequencyLargePara\FindFrequencyLargePara.csproj", "{AB926BB7-4440-4547-8C9C-A066266D8215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAvoidable", "RemoveAvoidable\RemoveAvoidable.csproj", "{FA5684A0-03FA-4169-806B-7B17AECCCB08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AB926BB7-4440-4547-8C9C-A066266D8215}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB926BB7-4440-4547-8C9C-A066266D8215}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB926BB7-4440-4547-8C9C-A066266D8215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5684A0-03FA-4169-806B-7B17AECCCB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5684A0-03FA-4169-806B-7B17AECCCB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5684A0-03FA-4169-806B-7B17AECCCB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5684A0-03FA-4169-806B-7B17AECCCB08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
